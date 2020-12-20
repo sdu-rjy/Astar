@@ -5,7 +5,6 @@
 #include <stack>
 
 #include <algorithm>
-#include <math>
 
 using namespace std;
 
