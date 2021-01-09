@@ -1,0 +1,5 @@
+PROJECT(Astar)
+SET(SRC_LIST main.cpp Astar.cpp)
+MESSAGE(STATUS "This is BINARY dir" ${Astar_BINARY_DIR})
+MESSAGE(STATUS "This is SOURCE dir" ${Astar_SOURCE_DIR})
+ADD_EXECUTABLE(Astar ${SRC_LIST})

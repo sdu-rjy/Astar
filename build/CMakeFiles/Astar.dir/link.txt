@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/Astar.dir/main.o CMakeFiles/Astar.dir/Astar.o  -o Astar -rdynamic 
